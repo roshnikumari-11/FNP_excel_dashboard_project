@@ -51,8 +51,6 @@ A Sales Analysis Dashboard for FNP that highlights key sales trends, revenue dri
 2. Use the **slicers and filters** to interact with and explore the data  
 3. Refresh **Power Query connections** if new data sources are added  
 
----
 
-*Feel free to reach out for questions or suggestions!*
 
 
